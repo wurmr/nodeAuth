@@ -1,0 +1,13 @@
+{
+  "name": "node-auth",
+  "description": "node express passport authentication proof of concept",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "~4.1.1",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "passport-google": "~0.3.0",
+    "passport-azure-ad": "0.0.3"
+  }
+}
